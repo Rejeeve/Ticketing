@@ -1,1 +1,2 @@
 This is a sample file where we are adding one line to file1.txt
+add second line in file1.txt from branch1
